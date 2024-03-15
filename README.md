@@ -1,4 +1,4 @@
-#Bridging the Domain Gap in Anomaly Detection via Synthetic Data
+# Bridging the Domain Gap in Anomaly Detection via Synthetic Data
 
 The project focuses on unsupervised anomaly detection in brain scans. The aim of this project is to overcome the issue of contrast-related domain shift in a VAE-based normative approach. While supervised learning has driven significant advancements in medical image segmentation, the inherent challenges of acquiring labeled data necessitate alternative approaches. Unsupervised anomaly detection methods offer a promising solution, circumventing the need for annotated data by leveraging the core principle of modeling healthy brain anatomy through unsupervised generative learning. This method enables the identification of potential anomalies by detecting deviations from the learned model, even without prior knowledge of specific anomaly appearances, thereby advancing a more efficient approach to medical image analysis.
 
